@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\bin\Debug\ГПСЧ.exe.config
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\bin\Debug\ГПСЧ.exe
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\bin\Debug\ГПСЧ.pdb
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\obj\Debug\ГПСЧ.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\obj\Debug\ГПСЧ.Form1.resources
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\obj\Debug\ГПСЧ.Properties.Resources.resources
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\obj\Debug\ГПСЧ.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\obj\Debug\ГПСЧ.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\obj\Debug\ГПСЧ.exe
+C:\Users\Alex\Desktop\Программная инженерия\Численные методы\ГПСЧ\ГПСЧ\obj\Debug\ГПСЧ.pdb
